@@ -33,8 +33,8 @@ In order to use newer versions of Nginx or NSSM you have to edit the variables i
 
 ::
 
-NGINX_VERSION=X.Y.Z
-NSSM_VERSION=2.16
+ NGINX_VERSION=X.Y.Z
+ NSSM_VERSION=2.16
 
 
 Examples
