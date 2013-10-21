@@ -1,7 +1,7 @@
 Nginx for Windows
 =================
 
-Nginx for Windows is a installer that set up a Nginx instance
+Nginx for Windows is an installer that set up a Nginx instance
 running as a service under Microsoft Windows platforms. 
 The Nginx version will be downloaded in compilation time from Nginx's official site - http://nginx.org/
 To achieve service behaviour it uses the "Non Sucking Service Manager" - http://nssm.cc/
@@ -29,7 +29,9 @@ any Windows 32&64 bits by just double clicking on it.
 New versions
 ------------
 
-In order to use new versions of Nginx or NSSM you should edit the variables inside the makefile choosing the apropiate version number:
+In order to use newer versions of Nginx or NSSM you should edit the variables inside the makefile choosing the apropiate version number:
+
+::
 
 NGINX_VERSION=X.Y.Z
 NSSM_VERSION=2.16
