@@ -29,7 +29,7 @@ any Windows 32&64 bits by just double clicking on it.
 New versions
 ------------
 
-In order to use newer versions of Nginx or NSSM you should edit the variables inside the makefile choosing the apropiate version number:
+In order to use newer versions of Nginx or NSSM you have to edit the variables inside the makefile choosing the apropiate version number:
 
 ::
 
