@@ -1,5 +1,5 @@
 NGINX_VERSION=1.6.0
-NSSM_VERSION=2.21.1
+NSSM_VERSION=2.22
 
 NGINX_LINK=http://nginx.org/download/nginx-$(NGINX_VERSION).zip
 NGINX_PKG=nginx-$(NGINX_VERSION)
